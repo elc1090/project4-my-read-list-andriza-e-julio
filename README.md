@@ -38,11 +38,12 @@ Site para visualização, criação e manipulação de lista de leituras pessoal
   - Finalizado
   - Abandonado
 - Notas
-- Resenhas
-- Demais a pensar
-- Seguir outros usários e visualizar suas respectivas listas
-
-Possibilitar adicionar, editar e excluir um livro da sua lista.
+- Novas funcionalidades
+  - Seguir outros usários e visualizar suas respectivas listas
+  - Homepage
+  - Perfil
+  - Validações para não fazer avaliações duplicadas.
+  - Deletar e editar avaliações
 
 ---
 Projeto entregue para a disciplina de [Desenvolvimento de Software para a Web](http://github.com/andreainfufsm/elc1090-2023a) em 2023a
